@@ -18,7 +18,7 @@ Puedes ver una demostración del proyecto en el siguiente enlace: https://fronte
 
 Para instalar el proyecto en tu máquina local, sigue estos pasos:
 
-- Clona el repositorio con el comando `git clone https://github.com/frontendstore/frontendstore.git`
+- Clona el repositorio con el comando `git clone https://github.com/Piruleto7/FrontEndStore.git
 - Abre el archivo `index.html` en tu navegador preferido.
 - Disfruta de la tienda virtual.
 
