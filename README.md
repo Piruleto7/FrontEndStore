@@ -12,8 +12,7 @@ FrontEndStore es un proyecto de tienda virtual para ventas de camisetas para pro
 
 ## Demostración
 
-Puedes ver una demostración del proyecto en el siguiente enlace: https://frontendstore.github.io/
-
+Puedes ver una demostración del proyecto en el siguiente enlace: https://65e7e41b7fe833af537159e7--velvety-gingersnap-140699.netlify.app/
 ## Instalación
 
 Para instalar el proyecto en tu máquina local, sigue estos pasos:
